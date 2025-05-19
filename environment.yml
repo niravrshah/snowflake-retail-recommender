@@ -1,0 +1,10 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - implicit=*
+  - ipython=*
+  - matplotlib=*
+  - openpyxl=*
+  - seaborn=*
+  - snowflake-ml-python=*
