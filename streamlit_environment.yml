@@ -1,0 +1,15 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - joblib=1.4.2
+  - matplotlib=3.10.0
+  - numpy=2.2.4
+  - pandas=2.2.3
+  - pillow=11.1.0
+  - plotly=6.0.1
+  - python=3.11.*
+  - scikit-learn=1.6.1
+  - seaborn=0.13.2
+  - snowflake-snowpark-python=
+  - streamlit=
